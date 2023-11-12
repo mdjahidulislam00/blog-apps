@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-jahdblogapp-dev-171326-authRole",
+      "UnauthRoleArn": "arn:aws:iam::678306532042:role/amplify-jahdblogapp-dev-171326-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::678306532042:role/amplify-jahdblogapp-dev-171326-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-jahdblogapp-dev-171326-deployment",
+      "UnauthRoleName": "amplify-jahdblogapp-dev-171326-unauthRole",
+      "StackName": "amplify-jahdblogapp-dev-171326",
+      "StackId": "arn:aws:cloudformation:eu-north-1:678306532042:stack/amplify-jahdblogapp-dev-171326/833af200-814c-11ee-b5d0-0a23a48e5cec",
+      "AmplifyAppId": "d243vl55n39ayl"
+    },
+    "categories": {
+      "api": {
+        "jahdblogapp": {}
+      }
+    }
+  }
+}
